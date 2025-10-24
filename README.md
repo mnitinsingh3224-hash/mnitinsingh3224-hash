@@ -1,19 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nitin Singh</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
----
 
-### 🌟 About Me
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m learning **Next.js, DevOps, and Cloud Technologies**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, and Java**
-- 📫 How to reach me: **[your-email@gmail.com]**
-- ⚡ Fun fact: *I love solving coding challenges and exploring new tech tools.*
 
----
 
 ### 🧰 Tech Stack
 <p align="left">
