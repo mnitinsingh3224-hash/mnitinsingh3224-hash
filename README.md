@@ -12,14 +12,6 @@
 
 ---
 
-### 🚀 My Projects
-Here are some of my favorite projects 👇  
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [**Project 1**](https://github.com/mnitinsingh3224-hash/project1) | A web app for ... | React, Node.js, MongoDB |
-| [**Project 2**](https://github.com/mnitinsingh3224-hash/project2) | A tool that ... | Java, Spring Boot |
-| [**Project 3**](https://github.com/mnitinsingh3224-hash/project3) | An automation script for ... | Python, Selenium |
-
 ---
 
 ### 📊 GitHub Stats
@@ -33,10 +25,10 @@ Here are some of my favorite projects 👇
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/ https://www.linkedin.com/in/nitin-singh-693908313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mnitinsingh3224@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://portfolio-link.com" target="_blank">
