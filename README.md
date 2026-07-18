@@ -77,22 +77,20 @@ My goal is to become an **AI/ML Engineer** and contribute to impactful open-sour
 
 ## 🚀 Currently Building
 
-### 🤖 AI Resume Analyzer
-
-An AI-powered application that analyzes resumes and compares them with job descriptions.
+### 🤖 AI Resume-Job Matcher
+An AI-powered full-stack application that analyzes resumes, matches them against job descriptions, and provides personalized improvement suggestions using LLMs.
 
 ### Features
-
-- 📄 Resume text extraction
-- 🔍 Skill detection
-- 🎯 Job description matching
-- 📊 Resume match score
-- 🧠 AI-powered recommendations
-- 📈 Skill gap analysis
+- 📄 Resume text extraction (PDF parsing)
+- 🔍 Skill & entity detection (NER-based)
+- 🎯 Semantic job description matching (TF-IDF + Sentence Embeddings)
+- 📊 Resume match score with visual breakdown
+- 🧠 AI-powered personalized recommendations (LLM integration)
+- 📈 Skill gap analysis with missing skills highlighted
+- 🌐 Full-stack deployable web app
 
 ### Tech Stack
-
-`Python` `NLP` `Scikit-learn` `Pandas`
+`Python` `FastAPI` `React` `NLP` `Scikit-learn` `Sentence-Transformers` `Pandas` `LLM APIs (OpenAI/Gemini)`
 
 > 🚧 Project currently under development.
 
